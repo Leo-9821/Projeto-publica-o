@@ -3,8 +3,9 @@ body {
 }
 
 header {
-	background: #9370DB;
+	background: #836FFF;
 	padding: 10px 0;
+	font-weight: bold;
 }
 
 .caixa {
@@ -18,3 +19,39 @@ header {
 	text-decoration: none;
 	margin: 0 10px;
 }
+
+table {
+	margin: 20px auto 40px;
+}
+
+thead {
+	background: #836FFF;
+}
+
+th, td {
+	border: 0.5px solid #000000;
+	padding: 8px 15px;
+}
+
+th {
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 9px;
+}
+
+td {
+	font-size: 9px;
+}
+
+footer {
+	text-align: center;
+	background: #836FFF;
+	padding: 5px 0;
+}
+
+.copyright {
+	color: #FFFFFF;
+	font-size: 4px;
+	margin: 10px 0;
+}
+
