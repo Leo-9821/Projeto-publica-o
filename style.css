@@ -1,0 +1,20 @@
+body {
+	font-family: 'Raleway', sans-serif;
+}
+
+header {
+	background: #9370DB;
+	padding: 10px 0;
+}
+
+.caixa {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+
+.titulo-pagina a {
+	color: #FFFFFF;
+	text-decoration: none;
+	margin: 0 10px;
+}
