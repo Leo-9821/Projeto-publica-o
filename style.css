@@ -29,6 +29,7 @@ thead {
 	background: #836FFF;
 }
 
+
 th, td {
 	border: 0.5px solid #000000;
 	padding: 6px 5px;
@@ -39,6 +40,28 @@ th, td {
 th {
 	color: #FFFFFF;
 	font-weight: bold;
+}
+
+td:last-child {
+	border: none;
+}
+
+.botao-submissao button {
+	background: #836FFF;
+	border-color: #836FFF;
+	font-size: 20px;
+}
+
+button a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+button:hover {
+	cursor: pointer;
+	background: #D8BFD8;
+	border-color: #D8BFD8;
+	transition: 0.3s all;
 }
 
 .revista a {
