@@ -11,17 +11,18 @@ header {
 .caixa {
 	position: relative;
 	width: 940px;
-	margin: 0 auto;
+	margin: 0 30px;
 }
 
 .titulo-pagina a {
 	color: #FFFFFF;
 	text-decoration: none;
 	margin: 0 10px;
+	font-size: 50px;
 }
 
 table {
-	margin: 20px auto 40px;
+	margin: 50px auto 50px;
 }
 
 thead {
@@ -32,16 +33,12 @@ th, td {
 	border: 0.5px solid #000000;
 	padding: 6px 5px;
 	text-align: center;
+	font-size: 40px;
 }
 
 th {
 	color: #FFFFFF;
 	font-weight: bold;
-	font-size: 9px;
-}
-
-td {
-	font-size: 9px;
 }
 
 .revista a {
@@ -59,12 +56,12 @@ td {
 footer {
 	text-align: center;
 	background: #836FFF;
-	padding: 5px 0;
+	padding: 15px;
 }
 
 .copyright {
 	color: #FFFFFF;
-	font-size: 4px;
+	font-size: 15px;
 	margin: 10px 0;
 }
 
